@@ -4,8 +4,7 @@
 1. [Abstract](#abstract)
 2. [Introduction](#introduction)
 3. [Implementation Details](#implementation-details)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
+4. [Contributing](#contributing)
 
 ## Abstract
 This project, conceptualized and developed greatly, presents a captivating casino game implemented in assembly language. It combines a mathematical challenge bonus round with a traditional number-guessing casino game, offering an engaging and multifaceted gaming experience. The project leverages the intricacies of assembly language to demonstrate the team's proficiency in creating interactive and entertaining software applications.
